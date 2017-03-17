@@ -21,7 +21,7 @@ To quote from Elasticsearch The Definite Guide: "Shay’s wife is still waiting 
 
 .Lucene
 
-You might see the name Lucene mentioned several places. Lucene is an open source project also written in Java, Lucene can best described as a set of Java libraries that can be used for full text search. Elasticsearch was initially an API of its own that made use of Lucene,back when it was called "Compass". Elasticsearch was then created by making compass into a standalone server that could be used directly without writing any code.  One of the strongpoints of Lucene is that it is a very mature open source project with a very mature code base. Lucene has been around for years, but thanks to Elasticsearch , Lucene has no become more well known to the rest of the world.
+You might see the name Lucene mentioned several places. Lucene is an open source project also written in Java, Lucene can best described as a set of Java libraries that can be used for full text search. Elasticsearch was initially an API of its own that made use of Lucene,back when it was called "Compass". Elasticsearch was then created by making compass into a standalone server that could be used directly without writing any code.  One of the strongpoints of Lucene is that it is a very mature open source project with a very mature code base. Lucene has been around for years, but thanks to Elasticsearch , Lucene has now become more well known to the rest of the world.
 
 .Logstash
 
